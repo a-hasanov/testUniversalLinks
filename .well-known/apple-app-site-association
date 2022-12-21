@@ -1,0 +1,16 @@
+{
+   "applinks":{
+      "details":[
+         {
+            "appIDs":[
+               "H55TKR3ZA9.ru.gibdd-pay.app"
+            ],
+            "components":[
+               {
+                  "/":"/shtrafy/shared"
+               }
+            ]
+         }
+      ]
+   }
+}
