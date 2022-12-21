@@ -1,0 +1,36 @@
+{
+   "applinks":{
+      "details":[
+         {
+            "appIDs":[
+               "H55TKR3ZA9.ru.gibdd-pay.app"
+            ],
+            "components":[
+               {
+                  "/":"/payment/inprogress/gibdd-main"
+               }
+            ]
+         },
+         {
+            "appIDs":[
+               "TPULFKPK7N.ru.gibdd-pay.gibdd"
+            ],
+            "components":[
+               {
+                  "/":"/payment/inprogress/gibdd-a"
+               }
+            ]
+         },
+         {
+            "appIDs":[
+               "7X4Q3NAT9P.com.kostosha.fines"
+            ],
+            "components":[
+               {
+                  "/":"/payment/inprogress/gibdd-b"
+               }
+            ]
+         }
+      ]
+   }
+}
